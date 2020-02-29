@@ -1,0 +1,28 @@
+.btn-width {
+	width: 130px;
+}
+
+.addingTable {
+	border-collapse: separate;
+	border-spacing: 20px;
+}
+
+select, input {
+	width: 100%;
+}
+
+.siteTitle {
+	margin-bottom: 15px;
+	display: flex;
+	justify-content: center;
+}
+
+.addButton {
+	display: flex;
+	justify-content: center;
+}
+
+.hrHeader {
+	margin-top: 25px;
+	margin-bottom: 1px;
+}
